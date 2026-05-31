@@ -1,24 +1,24 @@
 # Autox.js v7
-<p align="center"> 
+<p 对齐="居中"> 
   
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/aiselp/AutoX/total)
-![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/aiselp/AutoX)
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/aiselp/AutoX/android-test.yml)
-![GitHub Release](https://img.shields.io/github/v/release/aiselp/AutoX)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/ca72518c8bd548f9a350d5a15e2ed9ea)](https://app.codacy.com/gh/aiselp/AutoX/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+![GitHub 下载（所有资源，所有版本）](https://img.shields.io/github/downloads/zunyuange/AutoX/total)
+![GitHub 问题或拉取请求](https://img.shields.io/github/issues/zunyuange/AutoX)
+![GitHub Actions 工作流状态](https://img.shields.io/github/actions/workflow/status/zunyuange/AutoX/android-test.yml)
+![GitHub 发布](https://img.shields.io/github/v/release/zunyuange/AutoX)
+[![Codacy 徽章](https://app.codacy.com/project/badge/Grade/ca72518c8bd548f9a350d5a15e2ed9ea)](https://app.codacy.com/gh/zunyuange/AutoX/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 
-</p>
+</段>
 
-[English Document](README_en.md)
+[英文文件](README_en.md)
 
 ## 简介
 
-一个支持无障碍服务的Android平台上的JavaScript 运行环境 和 开发环境，其发展目标是类似JsBox和Workflow。
+一个支持无障碍服务的Android平台上的JavaScript运行环境和开发环境，其发展目标是类似JsBox和Workflow。
 
-本项目从[hyb1996](https://github.com/hyb1996/Auto.js) autojs 获得,并命名为Autox.js （autojs 修改版本），
+本项目从[hyb1996](https://github.com/hyb1996/Auto.js) autojs 获得，并命名为Autox.js （autojs 修改版本），
 你现在看的是原4.1版本基础上的项目，
 后面我们将针对项目本身如何开发、运行的进行介绍，欢迎更多开发者参与这个项目维护升级。[hyb1996](https://github.com/hyb1996/Auto.js)采用的
-[Mozilla Public License Version 2.0](https://github.com/hyb1996/NoRootScriptDroid/blob/master/LICENSE.md)
+[Mozilla 公共许可证版本 2.0](https://github.com/hyb1996/NoRootScriptDroid/blob/master/LICENSE.md)
 +**非商业性使用**，出于多种因素考虑， 本产品采用 [GPL-V2](https://opensource.org/licenses/GPL-2.0) 许可证，
 无论是其他贡献者，还是使用该产品，均需按照 MPL-2.0+非商业性使用 和 GPL-V2 的相关要求使用。
 
@@ -30,13 +30,13 @@
 ### 现在的Autox.js：
 
 * Autox.js文档： https://autox-doc.vercel.app/
-* 开源地址： https://github.com/aiselp/AutoX/
+* 开源地址： https://github.com/zunyuange/AutoX/
 * pc端开发[VS Code 插件](https://marketplace.visualstudio.com/items?itemName=aaroncheng.auto-js-vsce-fixed)
 * 官方论坛： [www.autoxjs.com](http://www.autoxjs.com)
 * autoxjs[更新日志](CHANGELOG.md)
 
 ### Autox.js下载地址：
-[releases](https://github.com/aiselp/AutoX/releases)  
+[releases](https://github.com/zunyuange/AutoX/releases)  
 如果下载过慢可以右键复制 Release Assets 中APK文件的链接地址，粘贴到 [http://toolwa.com/github/](http://toolwa.com/github/) 等github加速网站下载
 
 #### APK版本说明：
@@ -75,7 +75,7 @@
 - [x] [Rhino](https://github.com/mozilla/rhino/)升级至v1.8.0稳定版，支持更多es6+语法
 
 ### 示例
-可在[这里](https://github.com/aiselp/AutoX/tree/setup-v7/app/src/main/assets/sample)查看一些示例，或者直接在应用内查看和运行。
+可在[这里](https://github.com/zunyuange/AutoX/tree/setup-v7/app/src/main/assets/sample)查看一些示例，或者直接在应用内查看和运行。
 
 
 ### 编译相关：
