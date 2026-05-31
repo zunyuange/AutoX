@@ -1,15 +1,15 @@
 # Autox.js v7
-<p 对齐="居中"> 
+<p align="center"> 
   
-![GitHub 下载（所有资源，所有版本）](https://img.shields.io/github/downloads/zunyuange/AutoX/total)
-![GitHub 问题或拉取请求](https://img.shields.io/github/issues/zunyuange/AutoX)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/zunyuange/AutoX/total)
+![GitHub 问题或拉取请求(https://img.shields.io/github/issues/zunyuange/AutoX)
 ![GitHub Actions 工作流状态](https://img.shields.io/github/actions/workflow/status/zunyuange/AutoX/android-test.yml)
 ![GitHub 发布](https://img.shields.io/github/v/release/zunyuange/AutoX)
 [![Codacy 徽章](https://app.codacy.com/project/badge/Grade/ca72518c8bd548f9a350d5a15e2ed9ea)](https://app.codacy.com/gh/zunyuange/AutoX/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 
-</段>
 
-[英文文件](README_en.md)
+
+英文文件(README_en.md)
 
 ## 简介
 
@@ -31,12 +31,12 @@
 
 * Autox.js文档： https://autox-doc.vercel.app/
 * 开源地址： https://github.com/zunyuange/AutoX/
-* pc端开发[VS Code 插件](https://marketplace.visualstudio.com/items?itemName=aaroncheng.auto-js-vsce-fixed)
+* 电脑端开发VS Code 插件](https://marketplace.visualstudio.com/items?itemName=aaroncheng.auto-js-vsce-fixed)
 * 官方论坛： [www.autoxjs.com](http://www.autoxjs.com)
 * autoxjs[更新日志](CHANGELOG.md)
 
 ### Autox.js下载地址：
-[releases](https://github.com/zunyuange/AutoX/releases)  
+[发布](https://github.com/zunyuange/AutoX/releases)  
 如果下载过慢可以右键复制 Release Assets 中APK文件的链接地址，粘贴到 [http://toolwa.com/github/](http://toolwa.com/github/) 等github加速网站下载
 
 #### APK版本说明：
